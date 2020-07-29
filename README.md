@@ -12,10 +12,26 @@ Processing, Rstudio, HTML, Javascript, p5.js, Three.js
 
 ### Examples of Generative Art created by me
 
-![Music Visualizer](ezgif.com-video-to-gif-12.gif)
+#### Music Visualizer
+![Music Visualizer](gifs/ezgif.com-video-to-gif-12.gif)
+![Music Visualizer](gifs/ezgif.com-video-to-gif-13.gif)
+![Music Visualizer](gifs/ezgif.com-crop.gif)
 
+#### Generative Flowers
+![Flower]()
+![Flower]()
+![Flower]()
+![Flower]()
 
+#### Trippy
+![Trippy](gifs/ezgif.com-video-to-gif.gif)
 
-
+#### R_Studio
+![r]()
+![r]()
+![r]()
+![r]()
+![r]()
+![r]()
 
 ### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/)
