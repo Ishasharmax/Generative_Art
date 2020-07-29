@@ -9,4 +9,4 @@ work of art. Please read[CONTRIBUTING.md](https://www.philipgalanter.com/downloa
 
 ### Exmaples of Generative Art created by me
 
-
+![Music Visualizer](/images/logo.png)
