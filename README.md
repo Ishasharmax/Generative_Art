@@ -18,11 +18,11 @@ Processing, Rstudio, HTML, Javascript, p5.js, Three.js
 ![Music Visualizer](gifs/ezgif.com-crop.gif)
 
 #### Generative Flowers
-![Flower](Processing_Images/download (22).png)
-![Flower](Processing_Images/download (32).png)
-![Flower](Processing_Images/download (48).png)
-![Flower](Processing_Images/download (41).png)
-![Flower](Processing_Images/download (34).png)
+![Flower](Processing_Images/download(22).png)
+![Flower](Processing_Images/download(32).png)
+![Flower](Processing_Images/download(48).png)
+![Flower](Processing_Images/download(41).png)
+![Flower](Processing_Images/download(34).png)
 
 #### Trippy
 ![Trippy](gifs/ezgif.com-video-to-gif.gif)
