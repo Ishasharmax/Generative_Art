@@ -7,12 +7,9 @@ a machine, or other procedural invention, which is then set into motion with som
 work of art. Please read[ Philip Galanter's research paper ](https://www.philipgalanter.com/downloads/ga2003_paper.pdf) for more details on Generative Art & Creative coding.
 
 ### Tools I used for creating Generative Art:
-Processing
-Rstudio
-HTML
-Javascript
-p5.js
-Three.js
+Processing, Rstudio, HTML, Javascript, p5.js, Three.js
+
+### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/)
 
 ### Examples of Generative Art created by me
 
