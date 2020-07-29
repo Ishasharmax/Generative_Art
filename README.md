@@ -9,8 +9,13 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ### Tools I used for creating Generative Art:
 Processing, Rstudio, HTML, Javascript, p5.js, Three.js
 
-### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/)
 
 ### Examples of Generative Art created by me
 
 ![Music Visualizer](ezgif.com-video-to-gif-12.gif)
+
+
+
+
+
+### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/)
