@@ -1,4 +1,4 @@
-# Generative_Art
+# Generative Art
 
 ## What is Generative Art?
 
