@@ -6,10 +6,6 @@ Generative Art refers to any art practice where the artist uses a system, such a
 a machine, or other procedural invention, which is then set into motion with some degree of autonomy to or resulting in a complex 
 work of art. Please read[ Philip Galanter's research paper ](https://www.philipgalanter.com/downloads/ga2003_paper.pdf) for more details on Generative Art & Creative coding.
 
-### Tools I used for creating Generative Art:
-Processing, Rstudio, HTML, Javascript, p5.js, Three.js
-
-
 ### Examples of Generative Art created by me
 
 #### Music Visualizer
@@ -35,4 +31,21 @@ Processing, Rstudio, HTML, Javascript, p5.js, Three.js
 ![r](R_Images/2020-07-23-00-37_seed_4901.png)
 ![r](R_Images/2020-07-23-01-16_seed_5546.png)
 
+
+## Built With
+
+* [Processing](http://www.dropwizard.io/1.0.2/docs/) 
+* [Rstudio](https://maven.apache.org/) 
+* [HTML](https://rometools.github.io/rome/) 
+* [Javascript](https://rometools.github.io/rome/) 
+* [Three.js](https://rometools.github.io/rome/)
+* [p5.js](https://rometools.github.io/rome/)
+
+
+## Contribution
+
 ### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/)
+
+## Authors
+
+* **Isha Sharma** [ishasharmax](https://github.com/ishasharmax)
