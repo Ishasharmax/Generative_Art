@@ -34,12 +34,12 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 ## Built With
 
-* [Processing](http://www.dropwizard.io/1.0.2/docs/) 
-* [Rstudio](https://maven.apache.org/) 
-* [HTML](https://rometools.github.io/rome/) 
-* [Javascript](https://rometools.github.io/rome/) 
-* [Three.js](https://rometools.github.io/rome/)
-* [p5.js](https://rometools.github.io/rome/)
+* [Processing](https://processing.org/) 
+* [Rstudio](https://docs.rstudio.com/) 
+* [HTML](https://en.wikipedia.org/wiki/HTML) 
+* [Javascript](https://www.javascript.com/) 
+* [Three.js](https://threejs.org/)
+* [p5.js](https://p5js.org/)
 
 
 ## Contribution
@@ -48,4 +48,4 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 ## Authors
 
-* **Isha Sharma** [ishasharmax](https://github.com/ishasharmax)
+* **Isha Sharma** - [Ishasharmax](https://github.com/ishasharmax)
