@@ -24,13 +24,7 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ![Trippy](gifs/ezgif.com-video-to-gif.gif)
 
 #### R_Studio
-![r](R_Images/2020-07-23-01-16_seed_8470.png)
-![r](R_Images/2020-07-20-14-06_seed_5771.png)
-![r](R_Images/2020-07-20-14-25_seed_930.png)
-![r](R_Images/2020-07-20-14-44_seed_2948.png)
-![r](R_Images/2020-07-23-00-37_seed_4901.png)
-![r](R_Images/2020-07-23-01-16_seed_5546.png)
-
+![r](R_Images/1596230840379.JPG)
 
 ## Built With
 
