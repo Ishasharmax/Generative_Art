@@ -14,11 +14,7 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ![Music Visualizer](gifs/ezgif.com-crop.gif)
 
 #### Generative Flowers
-![Flower](Processing_Images/download(22).png)
-![Flower](Processing_Images/download(32).png)
-![Flower](Processing_Images/download(48).png)
-![Flower](Processing_Images/download(41).png)
-![Flower](Processing_Images/download(34).png)
+![Flower](Processing_Images/1596258415574.JPG)
 
 #### Trippy
 ![Trippy](gifs/ezgif.com-video-to-gif.gif)
