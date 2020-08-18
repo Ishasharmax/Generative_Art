@@ -34,7 +34,7 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 ## Contribution
 
-### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/)
+### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/) and [Fronkonstin](https://fronkonstin.com)
 
 ## Authors
 
