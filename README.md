@@ -21,6 +21,7 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 #### R_Studio
 ![r](R_Images/1596230840379.JPG)
+![r](R_Images/Rplot.png)
 ![r](R_Images/Rplot01.png)
 ![r](R_Images/Rplot02.png)
 ![r](R_Images/Rplot03.png)
