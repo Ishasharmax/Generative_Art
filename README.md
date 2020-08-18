@@ -21,6 +21,18 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 #### R_Studio
 ![r](R_Images/1596230840379.JPG)
+![r](R_Images/Rplot01.png)
+![r](R_Images/Rplot02.png)
+![r](R_Images/Rplot03.png)
+![r](R_Images/Rplot04.png)
+![r](R_Images/Rplot05.png)
+
+#### Fronkonstin Technique
+![r](R_Images/plot1.png)
+![r](R_Images/plot2.png)
+![r](R_Images/plot3.png)
+![r](R_Images/plot5.png)
+![r](R_Images/plot6.png)
 
 ## Built With
 
