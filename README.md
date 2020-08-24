@@ -8,9 +8,14 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 ### Examples of Generative Art created by me
 
+#### 10 Print
+![10](gifs/10Print.gif)
+
+#### Border (point art)
+![Border](gifs/Border_gif.gif)
+
 #### Music Visualizer
 ![Music Visualizer](gifs/ezgif.com-video-to-gif-12.gif)
-![Music Visualizer](gifs/ezgif.com-video-to-gif-13.gif)
 ![Music Visualizer](gifs/ezgif.com-crop.gif)
 
 #### Generative Flowers
@@ -21,27 +26,19 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 #### R_Studio
 ![r](R_Images/1596230840379.JPG)
-![r](R_Images/Rplot.png)
-![r](R_Images/Rplot01.png)
-![r](R_Images/Rplot02.png)
-![r](R_Images/Rplot03.png)
+![r](R_Images/2C7474B8-8096-4033-8F66-5D590B81E300.JPEG)
 
 #### Fronkonstin Technique
-![r](R_Images/plot1.png)
-![r](R_Images/plot2.png)
-![r](R_Images/plot3.png)
-![r](R_Images/plot5.png)
-![r](R_Images/plot6.png)
+![r](R_Images/E06A762D-5682-49AD-9B93-471C38A76C2B.JPG)
 
 ## Built With
-
 * [Processing](https://processing.org/) 
 * [Rstudio](https://docs.rstudio.com/) 
 * [HTML](https://en.wikipedia.org/wiki/HTML) 
 * [Javascript](https://www.javascript.com/) 
 * [Three.js](https://threejs.org/)
 * [p5.js](https://p5js.org/)
-
+* [Python](https://www.python.org/)
 
 ## Contribution
 
