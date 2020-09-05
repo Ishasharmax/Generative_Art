@@ -1,6 +1,6 @@
 # Generative Art
 
-###Check out my personal website for more art : https://ishasharmax.github.io/
+### Check out my personal website for more art : https://ishasharmax.github.io/
 
 ## What is Generative Art?
 
