@@ -1,5 +1,7 @@
 # Generative Art
 
+###Check out my personal website for more art : https://ishasharmax.github.io/
+
 ## What is Generative Art?
 
 Generative Art refers to any art practice where the artist uses a system, such as a set of natural language rules a computer program, 
