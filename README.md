@@ -9,12 +9,12 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ### Examples of Generative Art created by me
 
 #### Kadinsky - Circles in Circle
-![CiC](artImages/kadinsky3.jpg)
-![CiC](artImages/kadinsky4.jpg)
+![CiC](artImages/kandinsky3.jpg)
+![CiC](artImages/kandinsky4.jpg)
 
 #### Kadinsky - Color study
-![CiC](artImages/kadinsky2.jpg)
-![CiC](artImages/kadinsky.jpg)
+![CiC](artImages/kandinsky2.jpg)
+![CiC](artImages/kandinsky.jpg)
 
 #### Mondrian - Composition with Red Blue and Yellow
 ![CiC](artImages/Mondrian.jpg)
