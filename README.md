@@ -1,6 +1,6 @@
 # Generative Art
 
-### Check out my personal website for more art : https://ishasharmax.github.io/
+### Check out my personal website for more interactive art : https://ishasharmax.github.io/
 
 ## What is Generative Art?
 
@@ -56,6 +56,7 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ## Contribution
 
 ### RStudio code is inpsired by [Katharine Brunner](https://katharinabrunner.de/software-portfolio/) and [Fronkonstin](https://fronkonstin.com)
+### [Jason Bailey's] (https://lnkd.in/eZNeGVZ) article 
 
 ## Authors
 
