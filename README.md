@@ -11,8 +11,8 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ### Examples of Generative Art created by me
 
 #### Point Art 
-![point](artImages/point1.png)
-![point](artImages/point2.png)
+![point](artImages/point2.png)![point](artImages/point1.png)
+
 
 #### Kadinsky - Circles in Circle
 ![CiC](artImages/kandinsky3.jpg)
