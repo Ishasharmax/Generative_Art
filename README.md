@@ -13,13 +13,11 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 #### Point Art 
 ![point](artImages/point2.png)![point](artImages/point1.png)
 
-
 #### Kadinsky - Circles in Circle
 ![CiC](artImages/kandinsky3.jpg)
 
 #### Kadinsky - Color study
 ![CiC](artImages/kandinsky2.jpg)
-![CiC](artImages/kandinsky.jpg)
 
 #### Mondrian - Composition with Red Blue and Yellow
 ![CiC](artImages/Mondrian.jpg)
