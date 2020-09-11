@@ -10,7 +10,8 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 
 ### Examples of Generative Art created by me
 #### Color flash
-![color](gifs/square.gif)![color](gifs/wave.gif)
+![color](gifs/square.gif)
+![color](gifs/wave.gif)
 
 #### Point Art 
 ![point](artImages/point2.png)![point](artImages/point1.png)
