@@ -9,6 +9,10 @@ a machine, or other procedural invention, which is then set into motion with som
 work of art. Please read[ Philip Galanter's research paper ](https://www.philipgalanter.com/downloads/ga2003_paper.pdf) for more details on Generative Art & Creative coding.
 
 ### Examples of Generative Art created by me
+
+#### R-ambient package [https://www.data-imaginist.com/2020/a-noisy-start/]
+![r](R_Images/ambient.png)
+
 #### Color flash
 ![color](gifs/square.gif)
 ![color](gifs/wave.gif)
