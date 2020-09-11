@@ -9,6 +9,8 @@ a machine, or other procedural invention, which is then set into motion with som
 work of art. Please read[ Philip Galanter's research paper ](https://www.philipgalanter.com/downloads/ga2003_paper.pdf) for more details on Generative Art & Creative coding.
 
 ### Examples of Generative Art created by me
+#### Color flash
+![color](gifs/square.gif)![color](gifs/wave.gif)
 
 #### Point Art 
 ![point](artImages/point2.png)![point](artImages/point1.png)
@@ -29,14 +31,15 @@ work of art. Please read[ Philip Galanter's research paper ](https://www.philipg
 ![Border](gifs/Border_gif.gif)
 
 #### Music Visualizer
-![Music Visualizer](gifs/ezgif.com-video-to-gif-12.gif)
-![Music Visualizer](gifs/ezgif.com-crop.gif)
+![Music Visualizer](gifs/visualiser1.gif)
+![Music Visualizer](gifs/slinky.gif)
 
 #### Generative Flowers
 ![Flower](Processing_Images/1596258415574.JPG)
 
 #### Trippy
-![Trippy](gifs/ezgif.com-video-to-gif.gif)
+![Trippy](gifs/trippy2.gif)
+![Trippy](gifs/trippy.gif)
 
 #### R_Studio
 ![r](R_Images/1596230840379.JPG)
